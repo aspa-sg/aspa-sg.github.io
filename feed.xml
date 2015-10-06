@@ -6,9 +6,9 @@
 </description>
     <link>http://www.aspa.org.sg/</link>
     <atom:link href="http://www.aspa.org.sg/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Sep 2015 16:48:21 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2015 16:48:21 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.0.pre.beta8</generator>
+    <pubDate>Tue, 06 Oct 2015 15:43:20 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2015 15:43:20 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.0.pre.beta9</generator>
     
       <item>
         <title>ASPA End of Year Lunch</title>
@@ -107,7 +107,7 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;This website was built by committee member Dr Chong-Yee Khoo, using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt;. It uses the &lt;a href=&quot;http://getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt; framework.&lt;/p&gt;
+&lt;p&gt;This website was built by committee member &lt;a href=&quot;https://www.cantab-ip.com&quot;&gt;Dr Chong-Yee Khoo&lt;/a&gt;, using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt;. It uses the &lt;a href=&quot;http://getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt; framework.&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Aug 2015 08:00:00 +0800</pubDate>
         <link>http://www.aspa.org.sg/news/2015/08/03/new-aspa-website/</link>
