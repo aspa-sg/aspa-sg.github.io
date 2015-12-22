@@ -6,10 +6,12 @@ The website of the Association of Singapore Patent Attorneys (ASPA), published a
 
 A list of the tools we used to build this site:
 
+* [Ruby](http://www.rubylang.org)
+
 * [Jekyll](http://jekyllrb.com)
 
 * [Bootstrap](http://www.getbootstrap.com)
 
-* [Ruby](http://www.rubylang.org)
+* [GitHub Pages](https://pages.github.com)
 
-Designed and coded by Dr Chong-Yee Khoo, Partner, [Cantab LLP](https://cantab-ip.com).
+Designed and coded by Dr Chong-Yee Khoo, Partner, [Cantab LLP](https://www.cantab-ip.com).
