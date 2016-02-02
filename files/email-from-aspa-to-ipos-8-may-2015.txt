@@ -1,0 +1,27 @@
+Text of Email from ASPA to Mr Dexter Teo and Mr Wong Chee Leong of IPOS dated  8 May 2015 on the "Guidelines Relating to Supplementary Examination, Patentable Subject Matter and Computer- Implemented Inventions"
+
+Dear Dexter/Chee Leong
+
+Thank you again for extending the deadline to submit feedback from our members in relation to the issue of patentable subject matter. Our members are concerned about the radical changes that you are suggesting.
+
+We understand that the repeal of S13(2) of the SG Patents Act means that it has been revoked/annulled. We do not agree that this correspondingly gives IPOS the mandate to determine what is and what is not patentable because of the retention of S13(1) since S13(1) relates only to novelty, inventive step and industrial applicability, not patent eligibility.
+
+We note that there is no explicit requirement for an invention to be “technical” in the Act. In our view, the only statutory basis we have under Singapore law is that the claims must define something technical, arising out of R19 SG Patents Rules. The EPO goes one additional step farther and requires that only technical features of the claim can contribute to the inventive step. Our European Patent Attorney members confirm that the “additional step” exists because of Article 52 EPC (analogous to S1(2 )of the UK Patents Act, and the repealed S13(2) of the SG Patents Act). However, as mentioned above we don't have these exclusions any more, and thus, there is no statutory basis for IPOS to adopt the “additional step” taken by the EPO.
+
+Furthermore, in our view, the Interpretation Act also prevents IPOS from imposing this requirement by relying on R19, since this requires under S19(c) that Rules must not be inconsistent with the Act. If there is no explicit requirement for an invention to be technical in the Act, if a rule requires this, that rule is ultra vires and cannot be enforced. Thus IPOS cannot rely on R19.
+
+In addition, IPOS cannot also rely on TRIPS itself to impose this requirement as treaties such as TRIPS are between countries and only have effect in law in the jurisdiction by being enacted there and/or if they are mentioned in the legislation, which TRIPS is not. Thus this limitation cannot be imported from TRIPS and in any event, the requirement of TRIPS is not to require only technical inventions to be patentable, but to require as a lower bound that at least technical inventions are patentable, so TRIPS also does not impose the “technical” requirement that IPOS seeks.
+
+In terms of the invention/discovery issue that IPOS is citing from the Merck case, nothing in the first instance case they refer to in the guidelines raises the invention/discovery problem. IPOS might be thinking of the decision on appeal because the court did pass comment on invention versus discovery in that case. But the court revoked that patent for lack of inventive step, not because the invention was supposed to be a "discovery", and therefore not an "invention". So, the court's comments in this respect are obiter dicta and therefore not binding. While the court’s comments may have persuasive value, they are certainly not binding, and IPOS cannot use them to impose a hard and fast test on patent eligibility.
+
+We respectfully submit that if IPOS wishes to impose a requirement that only technical inventions are patentable then the law must be amended to state this plainly. It is bad law and not in the best interests of the general public to impose arbitrary requirements that do not exist in the legislature in relation to patent eligibility.
+
+Finally, we wish to add that ASPA’s letter which you referenced in “Consult Paper On Streamlining Of The Patent Application Process” was for consideration only by the Australian Patent Office in 2009. Singapore did not have a positive grant system then, and the points raised in the letter was meant to shape the development of the law in Australia, not in Singapore. We do not believe that it is appropriate for the letter to be referenced in the consult paper.
+
+We trust that our feedback will be carefully considered, and we look forward to engaging you on the various issues on 18 May 2015.
+
+Kind regards,
+
+Desmond Tan
+Secretary
+Association of Singapore Patent Attorneys
