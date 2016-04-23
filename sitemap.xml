@@ -226,10 +226,10 @@
 <loc>http://www.aspa.org.sg/contact/</loc>
 </url>
 <url>
-<loc>http://www.aspa.org.sg/news/archive/</loc>
+<loc>http://www.aspa.org.sg/news/</loc>
 </url>
 <url>
-<loc>http://www.aspa.org.sg/news/</loc>
+<loc>http://www.aspa.org.sg/news/archive/</loc>
 </url>
 <url>
 <loc>http://www.aspa.org.sg/</loc>
@@ -251,6 +251,9 @@
 </url>
 <url>
 <loc>http://www.aspa.org.sg/membership/</loc>
+</url>
+<url>
+<loc>http://www.aspa.org.sg/contact/thank-you/</loc>
 </url>
 <url>
 <loc>http://www.aspa.org.sg/google93c7b917f3947b4c.html</loc>
