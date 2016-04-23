@@ -10,6 +10,8 @@ A list of the tools we used to build this site:
 
 * [Jekyll](http://jekyllrb.com)
 
+* [Octopress](http://octopress.org.com)
+
 * [Bootstrap](http://www.getbootstrap.com)
 
 * [GitHub Pages](https://pages.github.com)
