@@ -10,7 +10,7 @@ A list of the tools we used to build this site:
 
 * [Jekyll](http://jekyllrb.com)
 
-* [Octopress](http://octopress.org.com)
+* [Octopress](http://octopress.org)
 
 * [Bootstrap](http://www.getbootstrap.com)
 
