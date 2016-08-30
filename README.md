@@ -16,4 +16,4 @@ A list of the tools we used to build this site:
 
 * [GitHub Pages](https://pages.github.com)
 
-Designed and coded by Dr Chong-Yee Khoo, Partner, [Cantab LLP](https://www.cantab-ip.com).
+Designed and coded by Dr Chong-Yee Khoo, Partner, [Cantab Intellectual Property](https://www.cantab-ip.com).
