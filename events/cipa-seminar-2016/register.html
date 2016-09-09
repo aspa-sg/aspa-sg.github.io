@@ -107,77 +107,77 @@
 
     <h1>Registration Form</h1>
 <h3>Intellectual Property Seminar with CIPA</h3>
-<h5>Wednesday, 5 October 2016 from 12 noon to 5 pm at Pacific 1 Ballroom, Pan Pacific Hotel.</h5>
+<h5>Wednesday, 5 October 2016 from 12 noon to 5 pm at Pacific 1 Ballroom, Pan Pacific Hotel</h5>
 
-<p>Full details on the <a href="/events/cipa-seminar-2016">event page</a>.</p>
+<p id="conditions-of-registration">Full details on the <a href="/events/cipa-seminar-2016" target="_blank">CIPA IP Seminar event page</a>.</p>
 
 <h3>Conditions of Registration</h3>
 
 <ul>
-  <li>
-    <p>The number of places at this event is limited and registrations will be accepted in the order they are received.</p>
-  </li>
-  <li>
-    <p>If you wish to attend, you are required to register beforehand. No on-site registrations will be permitted.</p>
-  </li>
-  <li>
-    <p>The registration fee for members of ASPA is S$30 and the registration fee for non-members of ASPA is S$120.</p>
-  </li>
-  <li>
-    <p>Payment for the registration fee may be made in cash at the event.</p>
-  </li>
-  <li>
-    <p>If you register for the event and don’t attend, a fee of S$120 will be charged. This applies to both members of ASPA and non-members of ASPA.</p>
-  </li>
-  <li>
-    <p>CPD points have yet to be confirmed and are subject to SILE accreditation. Details of the registration requirements for CPD points will be made available on confirmation.</p>
-  </li>
+  <li>The number of places at this event is limited and registrations will be accepted in the order they are received</li>
+  <li>If you wish to attend, you are required to register beforehand. No on-site registrations will be permitted</li>
+  <li>The registration fee for members of ASPA is S$30 and the registration fee for non-members of ASPA is S$120</li>
+  <li>Payment for the registration fee may be made by cheque payable to "The Association of Singapore Patent Attorneys" or in cash at the event</li>
+  <li>If you register for the event and don't attend, a fee of S$120 will be charged. This applies to both members of ASPA and non-members of ASPA</li>
+  <li>CPD points have yet to be confirmed and are subject to SILE accreditation. Details of the registration requirements for CPD points will be made available on confirmation</li>
 </ul>
+
+<h3>Registrant Details</h3>
 
 <form class="form-horizontal" action="//formspree.io/rsvp@aspa.org.sg" method="POST">
   <fieldset>
-    <h3>Registrant Details</h3>
-
     <div class="form-group">
       <label for="inputName" class="col-sm-3 control-label">Name</label>
       <div class="col-lg-9">
-        <input type="text" class="form-control" id="name" name="name" />
+        <input type="text" class="form-control" id="name" placeholder="Name" name="name" />
       </div>
     </div>
 
     <div class="form-group">
       <label for="inputName" class="col-sm-3 control-label">Firm / Organisation</label>
       <div class="col-lg-9">
-        <input type="text" class="form-control" id="firm_organisation" name="firm_organisation" />
+        <input type="text" class="form-control" id="firm_organisation" placeholder="Firm / Organisation" name="firm_organisation" />
       </div>
     </div>
 
     <div class="form-group">
       <label for="inputName" class="col-sm-3 control-label">Email Address</label>
       <div class="col-lg-9">
-        <input type="text" class="form-control" id="email_address" name="email_address" />
+        <input type="text" class="form-control" id="email_address" placeholder="Email Address" name="email_address" />
       </div>
     </div>
 
     <div class="form-group">
       <label for="inputName" class="col-sm-3 control-label">Telephone Number</label>
       <div class="col-lg-9">
-        <input type="text" class="form-control" id="tel_number" name="tel_number" />
+        <input type="text" class="form-control" id="tel_number" placeholder="Telephone Number" name="tel_number" />
       </div>
     </div>
 
     <div class="form-group">
-      <div class="radio">
-        <label>
-          <input type="radio" name="membership_category" id="ordinary_member" value="member" checked="" />
-          I am a member of ASPA.
-        </label>
-      </div>
+      <label for="inputName" class="col-sm-3 control-label">Membership</label>
+      <div class="col-lg-9">
+        <div class="radio">
+          <label>
+            <input type="radio" name="membership_category" id="aspa_member" value="aspa_member" checked="" />
+            I am a member of ASPA (registration fee S$30)
+          </label>
+        </div>
 
-      <div class="radio">
+        <div class="radio">
+          <label>
+            <input type="radio" name="membership_category" id="not_aspa_member" value="not_aspa_member" />
+            I am not a member of ASPA (registration fee S$120)
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="checkbox">
         <label>
-          <input type="radio" name="membership_category" id="associate_member" value="non_member" />
-          I am not a member of ASPA.
+          <input type="checkbox" name="receipt" id="receipt" value="receipt" />
+          <p>Please issue me with a receipt for the registration fee</p>
         </label>
       </div>
     </div>
@@ -189,7 +189,7 @@
     <div class="checkbox">
       <label>
         <input type="checkbox" name="declaration" id="declaration" value="declaration" />
-        <p>I have read and understood the conditions of registration for this event and agree to be bound by them.</p>
+        <p>I have read and understood the <a href="#conditions-of-registration">conditions of registration</a> for this event and the <a href="/about/privacy-policy" target="_blank">ASPA Privacy Policy</a> and agree to be bound by them.</p>
       </label>
     </div>
     <br />
