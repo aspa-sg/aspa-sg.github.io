@@ -6,11 +6,11 @@ The website of the Association of Singapore Patent Attorneys (ASPA), published a
 
 A list of the tools we used to build this site:
 
-* [Ruby](http://www.rubylang.org)
+* [Ruby](http://www.ruby-lang.org)
 
 * [Jekyll](http://jekyllrb.com)
 
-* [Octopress](http://octopress.org)
+* [Octopress](https://github.com/octopress/octopress)
 
 * [Bootstrap](http://www.getbootstrap.com)
 
