@@ -1,0 +1,24 @@
+{
+  "name": "aspa_website",
+  "version": "0.1.0",
+  "description": "The website of the Association of Singapore Patent Attorneys (ASPA), published at [www.aspa.org.sg](https://aspa-sg.github.io)",
+  "keywords": [],
+  "homepage": "https://github.com/cykhoo/aspa_website#readme",
+  "bugs": {
+    "url": "https://github.com/cykhoo/aspa_website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cykhoo/aspa_website.git"
+  },
+  "author": "Dr Chong-Yee Khoo <mail@cykhoo.com>",
+  "main": "./_site/index.html",
+  "app": "./dist/index.html",
+  "scripts": {
+    "start": "parcel serve ./_site/index.html",
+    "build": "parcel build ./_site/index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.514"
+  }
+}
