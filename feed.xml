@@ -1,286 +1,376 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>The Association of Singapore Patent Attorneys (ASPA)</title>
-      <description>The Association of Singapore Patent Attorneys (ASPA) is the only organisation dedicated solely to the representation of the patent profession in Singapore. Our members are patent attorneys and patent agents registered with IPOS as well as those undergoing training to qualify as patent attorneys.
-      </description>
-      <link>http://www.aspa.org.sg/</link>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Association of Singapore Patent Attorneys (ASPA)</title>
+    <description>The Association of Singapore Patent Attorneys (ASPA) is the only organisation dedicated solely to the representation of the patent profession in Singapore. Our members are patent attorneys and patent agents registered with IPOS as well as those undergoing training to qualify as patent attorneys.
+</description>
+    <link>http://www.aspa.org.sg/</link>
     <atom:link href="http://www.aspa.org.sg/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Tue, 15 Feb 2022 20:33:04 +0800</pubDate>
-      <lastBuildDate>Tue, 15 Feb 2022 20:33:04 +0800</lastBuildDate>
-      <generator>Jekyll v4.2.1</generator>
+    <pubDate>Wed, 16 Feb 2022 20:54:40 +0800</pubDate>
+    <lastBuildDate>Wed, 16 Feb 2022 20:54:40 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
       <item>
         <title>JPAA ASPA Joint Webinar 2022</title>
         <description>&lt;p&gt;The Association of Singapore Patent Attorneys (ASPA) and the Japanese Patent Attorneys Association (JPAA) are pleased to present a joint webinar, to be held on 22 February 2022 at 11:00 am Singapore Time.&lt;/p&gt;
-          &lt;p&gt;The program will feature presentations from Japanese and Singapore patent attorneys on patent prosecution and litigation.&lt;/p&gt;
-          &lt;p&gt;Please read on for full details of the event or click the button to register.&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/jpaa-aspa-webinar-tickets-256457941607&quot; target=&quot;_blank&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-info pull-right&quot;&gt;Register for Event&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;!--more--&gt;
-          &lt;h3 id=&quot;jpaa-aspa-joint-webinar-details&quot;&gt;JPAA ASPA Joint Webinar Details&lt;/h3&gt;
-          &lt;ul&gt;
-          &lt;li&gt;
-          &lt;p&gt;Date: 22 February 2022&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;Time: 11 am to 12:30 pm Singapore time (12 pm to 1:30 pm Japanese time)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;Venue: Webinar details will be sent out closer to the date&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;/ul&gt;
-          &lt;h3 id=&quot;programme&quot;&gt;Programme&lt;/h3&gt;
-          &lt;ul&gt;
-          &lt;li&gt;
-          &lt;p&gt;11:00 am to 11:05 am: Opening (Ms Low Pei Lin, ASPA President)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;11:05 am to 11:20 am: Presentation on Patent Prosecution by Mr. Mori Tomohiro (JPAA)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;11:20 am to 11:35 am: “Patent Amendments: Best Practices to Avoid Hazards” by Dr Chong to Yee Khoo (ASPA)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;11:35 am to 11:50 am: “Procedures for filing patent applications in Japan” by Mr. Kawabata Koji (JPAA)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;11:50 am to 12:05 am: “Key features of patent litigation in Singapore” by Ms Oh Pin to Ping (ASPA)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;12:05 am to 12:25 am: Q&amp;amp;A and Social (20 mins)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-          &lt;p&gt;12:25 am to 12:30 am: Closing (Ms Low Pei Lin, ASPA President)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;/ul&gt;
-        </description>
+
+&lt;p&gt;The program will feature presentations from Japanese and Singapore patent attorneys on patent prosecution and litigation.&lt;/p&gt;
+
+&lt;p&gt;Please read on for full details of the event or click the button to register.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/jpaa-aspa-webinar-tickets-256457941607&quot; target=&quot;_blank&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-primary float-end&quot;&gt;Register for Event&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jpaa-aspa-joint-webinar-details&quot;&gt;JPAA ASPA Joint Webinar Details&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Date: 22 February 2022&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Time: 11 am to 12:30 pm Singapore time (12 pm to 1:30 pm Japanese time)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venue: Webinar details will be sent out closer to the date&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;programme&quot;&gt;Programme&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;11:00 am to 11:05 am: Opening (Ms Low Pei Lin, ASPA President)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;11:05 am to 11:20 am: Presentation on Patent Prosecution by Mr. Mori Tomohiro (JPAA)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;11:20 am to 11:35 am: “Patent Amendments: Best Practices to Avoid Hazards” by Dr Chong to Yee Khoo (ASPA)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;11:35 am to 11:50 am: “Procedures for filing patent applications in Japan” by Mr. Kawabata Koji (JPAA)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;11:50 am to 12:05 am: “Key features of patent litigation in Singapore” by Ms Oh Pin to Ping (ASPA)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;12:05 am to 12:25 am: Q&amp;amp;A and Social (20 mins)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;12:25 am to 12:30 am: Closing (Ms Low Pei Lin, ASPA President)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
         <pubDate>Tue, 15 Feb 2022 20:04:15 +0800</pubDate>
         <link>http://www.aspa.org.sg/news/2022/02/15/jpaa-aspa-joint-seminar-2022/</link>
-      <guid isPermaLink="true">http://www.aspa.org.sg/news/2022/02/15/jpaa-aspa-joint-seminar-2022/</guid>
-    </item>
-    <item>
-      <title>IPBC Southeast Asia 2021</title>
-      <description>&lt;p&gt;ASPA is pleased to be a supporting organisation of &lt;a href=&quot;https://ipbc.iam-media.com/event/0cba0616-b5bb-495b-a0ae-7faeb8f63a9b/summary&quot; target=&quot;_blank&quot;&gt;IPBC Southeast Asia&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-      </description>
-      <pubDate>Fri, 03 Sep 2021 17:24:38 +0800</pubDate>
-      <link>http://www.aspa.org.sg/news/2021/09/03/ipbc-southeast-asia-2021/</link>
-    <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/09/03/ipbc-southeast-asia-2021/</guid>
-  </item>
-  <item>
-    <title>INTA Annual Meeting 2021</title>
-    <description>&lt;p&gt;&lt;a href=&quot;https://www.inta.org/events/2021-annual-meeting/&quot; target=&quot;_blank&quot;&gt;INTA’s 2021 Annual Meeting&lt;/a&gt; will be held virtually from 15 to 19 November 2021. It features a virtual program over five days and one day in-person mini-conferences in four cities.&lt;/p&gt;
-      &lt;p&gt;The mini conferences will take place on the following days and cities:&lt;/p&gt;
-      &lt;ul&gt;
-      &lt;li&gt;November 15: Hong Kong SAR, China&lt;/li&gt;
-      &lt;li&gt;November 16: New York, New York USA&lt;/li&gt;
-      &lt;li&gt;November 17: Berlin, Germany&lt;/li&gt;
-      &lt;li&gt;November 18: Los Angeles, California USA&lt;/li&gt;
-      &lt;/ul&gt;
-    </description>
-    <pubDate>Fri, 30 Jul 2021 17:21:31 +0800</pubDate>
-    <link>http://www.aspa.org.sg/news/2021/07/30/inta-annual-meeting-2021/</link>
-  <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/07/30/inta-annual-meeting-2021/</guid>
-</item>
-<item>
-  <title>IP Week 2021</title>
-  <description>&lt;p&gt;ASPA is pleased to be a supporting organisation of &lt;a href=&quot;https://www.ipweek2021.sg&quot; target=&quot;_blank&quot;&gt;IP Week 2021&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-  </description>
-  <pubDate>Tue, 06 Jul 2021 13:35:31 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2021/07/06/ip-week-2021/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2021/07/06/ip-week-2021/</guid>
-</item>
-<item>
-  <title>ASPA Annual General Meeting 2021</title>
-  <description>&lt;p&gt;The Association held its annual general meeting on 21 May 2021, virtually. The President, Mr Desmond Tan, called the meeting to order shortly after 11 am when we met the quorum.&lt;/p&gt;
-    &lt;p&gt;The minutes of the Annual General Meeting held in 2020 were approved.&lt;/p&gt;
-    &lt;p&gt;Desmond started by presenting a summary of ASPA’s activities over the course of the past two years.&lt;/p&gt;
-    &lt;p&gt;The accounts were presented and approved and the two honorary treasurer positions were filled.&lt;/p&gt;
-    &lt;p&gt;We awarded the customary Book Prizes to the best candidates of taking the four papers of the Patent Agent Qualifying Examination in 2020.&lt;/p&gt;
-    &lt;p&gt;Elections for the new executive committee took place. The positions of President, Vice-President, Secretary and Treasurer were uncontested. Four members put themselves up as candidates for committee members. No election was conducted as the candidates were sufficient to fill the roles required in the committee.&lt;/p&gt;
-    &lt;p&gt;The new executive committee members are as follow:&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2022/02/15/jpaa-aspa-joint-seminar-2022/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>IPBC Southeast Asia 2021</title>
+        <description>&lt;p&gt;ASPA is pleased to be a supporting organisation of &lt;a href=&quot;https://ipbc.iam-media.com/event/0cba0616-b5bb-495b-a0ae-7faeb8f63a9b/summary&quot; target=&quot;_blank&quot;&gt;IPBC Southeast Asia&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Sep 2021 17:24:38 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2021/09/03/ipbc-southeast-asia-2021/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/09/03/ipbc-southeast-asia-2021/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>INTA Annual Meeting 2021</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.inta.org/events/2021-annual-meeting/&quot; target=&quot;_blank&quot;&gt;INTA’s 2021 Annual Meeting&lt;/a&gt; will be held virtually from 15 to 19 November 2021. It features a virtual program over five days and one day in-person mini-conferences in four cities.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The mini conferences will take place on the following days and cities:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;November 15: Hong Kong SAR, China&lt;/li&gt;
+  &lt;li&gt;November 16: New York, New York USA&lt;/li&gt;
+  &lt;li&gt;November 17: Berlin, Germany&lt;/li&gt;
+  &lt;li&gt;November 18: Los Angeles, California USA&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 30 Jul 2021 17:21:31 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2021/07/30/inta-annual-meeting-2021/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/07/30/inta-annual-meeting-2021/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>IP Week 2021</title>
+        <description>&lt;p&gt;ASPA is pleased to be a supporting organisation of &lt;a href=&quot;https://www.ipweek2021.sg&quot; target=&quot;_blank&quot;&gt;IP Week 2021&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Jul 2021 13:35:31 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2021/07/06/ip-week-2021/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/07/06/ip-week-2021/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA Annual General Meeting 2021</title>
+        <description>&lt;p&gt;The Association held its annual general meeting on 21 May 2021, virtually. The President, Mr Desmond Tan, called the meeting to order shortly after 11 am when we met the quorum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The minutes of the Annual General Meeting held in 2020 were approved.&lt;/p&gt;
+
+&lt;p&gt;Desmond started by presenting a summary of ASPA’s activities over the course of the past two years.&lt;/p&gt;
+
+&lt;p&gt;The accounts were presented and approved and the two honorary treasurer positions were filled.&lt;/p&gt;
+
+&lt;p&gt;We awarded the customary Book Prizes to the best candidates of taking the four papers of the Patent Agent Qualifying Examination in 2020.&lt;/p&gt;
+
+&lt;p&gt;Elections for the new executive committee took place. The positions of President, Vice-President, Secretary and Treasurer were uncontested. Four members put themselves up as candidates for committee members. No election was conducted as the candidates were sufficient to fill the roles required in the committee.&lt;/p&gt;
+
+&lt;p&gt;The new executive committee members are as follow:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;President: Ms. Low Pei Lin (Allen &amp;amp; Gledhill LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Vice-President: Mr. Desmond Tan (Davies Collison Cave Asia Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Secretary: Mr. Chang Jian Ming (Rodyk &amp;amp; Davidson LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Treasurer: Ms. Pin-Ping Oh (Bird &amp;amp; Bird ATMD LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Committee Members&lt;/p&gt;
+
     &lt;ul&gt;
-    &lt;li&gt;
-    &lt;p&gt;Dr. Chong-Yee Khoo (Cantab IP Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Mr. Kian Chiew Seow (Viering, Jentschura &amp;amp; Partner LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Ms. Magdalene Ong (Marks &amp;amp; Clerk Singapore LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Dr. Natsuho Yamamoto (Spruson &amp;amp; Ferguson (Asia) Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Dr. Chong-Yee Khoo (Cantab IP Pte Ltd)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mr. Kian Chiew Seow (Viering, Jentschura &amp;amp; Partner LLP)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Ms. Magdalene Ong (Marks &amp;amp; Clerk Singapore LLP)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Dr. Natsuho Yamamoto (Spruson &amp;amp; Ferguson (Asia) Pte Ltd)&lt;/p&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;Thomas Griffiths stood down as Treasurer and Edwin Dai and Chung Min Kwan stood down as committee members.&lt;/p&gt;
-    &lt;p&gt;The meeting approved a proposal for a daily allowance to be made available to any representative of ASPA who attends an event overseas.&lt;/p&gt;
-    &lt;p&gt;We thanked Desmond for his service as President for the past term.&lt;/p&gt;
-    &lt;p&gt;The formal business of the meeting was concluded at around 11:45 am.&lt;/p&gt;
-  </description>
-  <pubDate>Fri, 21 May 2021 15:35:31 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2021/05/21/aspa-annual-general-meeting-2021/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2021/05/21/aspa-annual-general-meeting-2021/</guid>
-</item>
-<item>
-  <title>ASPA Annual General Meeting 2019</title>
-  <description>&lt;p&gt;The Association held its annual general meeting on 28 June 2019 at the Vanda Ballroom of the Marina Mandarin Hotel.&lt;/p&gt;
-    &lt;!--more--&gt;
-    &lt;p&gt;The President, Mr Desmond Tan, called the meeting to order shortly after 6 pm when we met the quorum.&lt;/p&gt;
-    &lt;p&gt;Desmond started by presenting a summary of ASPA’s activities over the course of the past two years. He then thanked the retiring committee for its contributions. Desmond thanked in particular Maik Brinkmann, Audrey Lim, Jevon Louis and Gerald Koh, committee members who had indicated they intended to stand down at this election.&lt;/p&gt;
-    &lt;p&gt;The accounts were presented and approved and the two honorary treasurer positions were filled.&lt;/p&gt;
-    &lt;p&gt;We awarded the customary Book Prizes to the best candidates of taking the four papers of the Patent Agent Qualifying Examination in 2018. These are:&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thomas Griffiths stood down as Treasurer and Edwin Dai and Chung Min Kwan stood down as committee members.&lt;/p&gt;
+
+&lt;p&gt;The meeting approved a proposal for a daily allowance to be made available to any representative of ASPA who attends an event overseas.&lt;/p&gt;
+
+&lt;p&gt;We thanked Desmond for his service as President for the past term.&lt;/p&gt;
+
+&lt;p&gt;The formal business of the meeting was concluded at around 11:45 am.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 May 2021 15:35:31 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2021/05/21/aspa-annual-general-meeting-2021/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2021/05/21/aspa-annual-general-meeting-2021/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA Annual General Meeting 2019</title>
+        <description>&lt;p&gt;The Association held its annual general meeting on 28 June 2019 at the Vanda Ballroom of the Marina Mandarin Hotel.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The President, Mr Desmond Tan, called the meeting to order shortly after 6 pm when we met the quorum.&lt;/p&gt;
+
+&lt;p&gt;Desmond started by presenting a summary of ASPA’s activities over the course of the past two years. He then thanked the retiring committee for its contributions. Desmond thanked in particular Maik Brinkmann, Audrey Lim, Jevon Louis and Gerald Koh, committee members who had indicated they intended to stand down at this election.&lt;/p&gt;
+
+&lt;p&gt;The accounts were presented and approved and the two honorary treasurer positions were filled.&lt;/p&gt;
+
+&lt;p&gt;We awarded the customary Book Prizes to the best candidates of taking the four papers of the Patent Agent Qualifying Examination in 2018. These are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;Paper A (Preparation of a Patent Specification): Ms Soh Fang Hui of Donaldson &amp;amp; Burkinshaw LLP&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Paper B (Amendment of a Patent Specification): Ms Soh Fang Hui of Donaldson &amp;amp; Burkinshaw LLP&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Paper C (Infringement and Validity of Singapore Patent): Ms Kristy Tan Tzu Ying of Davies Collison Cave Asia Pte Ltd&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Paper D (Knowledge of Patent Law and Patent Practice in Singapore): Dr Cheng Wei of Spruson &amp;amp; Ferguson (Asia) Pte Ltd&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;Elections for the new committee took place. The positions of President, Vice-President, Secretary and Treasurer were uncontested. A poll was conducted to elect six committee members, eight members having put themselves forward as candidates.&lt;/p&gt;
-    &lt;p&gt;The results of the elections are as follow:&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Elections for the new committee took place. The positions of President, Vice-President, Secretary and Treasurer were uncontested. A poll was conducted to elect six committee members, eight members having put themselves forward as candidates.&lt;/p&gt;
+
+&lt;p&gt;The results of the elections are as follow:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;President: Mr. Desmond Tan (Davies Collison Cave Asia Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Vice-President: Ms. Low Pei Lin (Allen &amp;amp; Gledhill LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Secretary: Mr. Chang Jian Ming (Rodyk &amp;amp; Davidson LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Treasurer: Mr. Thomas Griffiths (Davies Collison Cave Asia Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Committee Members&lt;/p&gt;
+
     &lt;ul&gt;
-    &lt;li&gt;
-    &lt;p&gt;Dr. Chong-Yee Khoo (Cantab IP Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Mr. Chung Min Kwan (Yu Sarn Audrey &amp;amp; Partners)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Mr. Edwin Dai (Spruson &amp;amp; Ferguson (Asia) Pte Ltd)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Mr. Kian Chiew Seow (Viering, Jentschura &amp;amp; Partner LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Ms. Magdalene Ong (Marks &amp;amp; Clerk Singapore LLP)&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;p&gt;Ms. Pin-Ping Oh (Bird &amp;amp; Bird ATMD LLP)&lt;/p&gt;
-    &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Dr. Chong-Yee Khoo (Cantab IP Pte Ltd)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mr. Chung Min Kwan (Yu Sarn Audrey &amp;amp; Partners)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mr. Edwin Dai (Spruson &amp;amp; Ferguson (Asia) Pte Ltd)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Mr. Kian Chiew Seow (Viering, Jentschura &amp;amp; Partner LLP)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Ms. Magdalene Ong (Marks &amp;amp; Clerk Singapore LLP)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Ms. Pin-Ping Oh (Bird &amp;amp; Bird ATMD LLP)&lt;/p&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;The formal business of the meeting having been concluded, we enjoyed a nice buffet meal, with the quality of the food (particularly the dessert) being widely noted.&lt;/p&gt;
-  </description>
-  <pubDate>Mon, 01 Jul 2019 15:35:31 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2019/07/01/aspa-annual-general-meeting-2019/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2019/07/01/aspa-annual-general-meeting-2019/</guid>
-</item>
-<item>
-  <title>ASPA End of Year Lunch 2018</title>
-  <description>&lt;p&gt;ASPA’s annual end-of-year festive lunch will be held this year on Monday, 10 December 2018.&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The formal business of the meeting having been concluded, we enjoyed a nice buffet meal, with the quality of the food (particularly the dessert) being widely noted.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2019 15:35:31 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2019/07/01/aspa-annual-general-meeting-2019/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2019/07/01/aspa-annual-general-meeting-2019/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA End of Year Lunch 2018</title>
+        <description>&lt;p&gt;ASPA’s annual end-of-year festive lunch will be held this year on Monday, 10 December 2018.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;Date: 10 December 2018&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Time: 12 noon to 2 pm&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Venue: Oasia Hotel Downtown, 100 Peck Seah Street, Singapore 079333&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8290970271332!2d103.84208235033091!3d1.2759016990648355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196b556291df%3A0xbc35f64ca2eb9d54!2sOasia+Hotel+Downtown!5e0!3m2!1sen!2ssg!4v1524381272716&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;p&gt;An email invite will sent shortly to all members. If you wish to attend, please RSVP as soon as possible, as spaces are limited.&lt;/p&gt;
-  </description>
-  <pubDate>Sat, 06 Oct 2018 00:11:39 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2018/10/06/aspa-end-of-year-lunch-2018/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2018/10/06/aspa-end-of-year-lunch-2018/</guid>
-</item>
-<item>
-  <title>ASPA Annual General Meeting 2018</title>
-  <description>&lt;p&gt;An Annual General Meeting of the Association of Singapore Patent Attorneys will be held on 28 June 2018 at 6:30 pm.&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8290970271332!2d103.84208235033091!3d1.2759016990648355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196b556291df%3A0xbc35f64ca2eb9d54!2sOasia+Hotel+Downtown!5e0!3m2!1sen!2ssg!4v1524381272716&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;An email invite will sent shortly to all members. If you wish to attend, please RSVP as soon as possible, as spaces are limited.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Oct 2018 00:11:39 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2018/10/06/aspa-end-of-year-lunch-2018/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2018/10/06/aspa-end-of-year-lunch-2018/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA Annual General Meeting 2018</title>
+        <description>&lt;p&gt;An Annual General Meeting of the Association of Singapore Patent Attorneys will be held on 28 June 2018 at 6:30 pm.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;Date: 28 June 2018&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Time: 6 pm&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Venue: Oasia Downtown, 100 Peck Seah Street, Singapore 079333&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8290970271332!2d103.84208235033091!3d1.2759016990648355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196b556291df%3A0xbc35f64ca2eb9d54!2sOasia+Hotel+Downtown!5e0!3m2!1sen!2ssg!4v1524381272716&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;p&gt;The AGM will be followed by a presentation by the Executive Director of IP Valuelab (IPVL), Mr Tan Shau En. A buffet dinner will follow.&lt;/p&gt;
-    &lt;p&gt;Formal notice of the AGM has been sent to members.&lt;/p&gt;
-    &lt;p&gt;It would help if you could please complete the &lt;a href=&quot;/events/agm-2018/rsvp&quot;&gt;RSVP for the 2018 AGM&lt;/a&gt; so that we may cater the right amount of food for the dinner (and have some idea of how many will turn up for the meeting).&lt;/p&gt;
-  </description>
-  <pubDate>Mon, 28 May 2018 18:00:00 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2018/05/28/aspa-annual-general-meeting-2018/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2018/05/28/aspa-annual-general-meeting-2018/</guid>
-</item>
-<item>
-  <title>ASPA End of Year Lunch 2017</title>
-  <description>&lt;p&gt;&lt;strong&gt;&lt;small&gt;Updated 21 November 2017&lt;/small&gt;&lt;/strong&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;small&gt;This event has sold out. We look forward to seeing you at a future ASPA event.&lt;/small&gt;&lt;/p&gt;
-    &lt;p&gt;ASPA’s annual end-of-year festive lunch will be held this year on Friday, 1 December 2017.&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8290970271332!2d103.84208235033091!3d1.2759016990648355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196b556291df%3A0xbc35f64ca2eb9d54!2sOasia+Hotel+Downtown!5e0!3m2!1sen!2ssg!4v1524381272716&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The AGM will be followed by a presentation by the Executive Director of IP Valuelab (IPVL), Mr Tan Shau En. A buffet dinner will follow.&lt;/p&gt;
+
+&lt;p&gt;Formal notice of the AGM has been sent to members.&lt;/p&gt;
+
+&lt;p&gt;It would help if you could please complete the &lt;a href=&quot;/events/agm-2018/rsvp&quot;&gt;RSVP for the 2018 AGM&lt;/a&gt; so that we may cater the right amount of food for the dinner (and have some idea of how many will turn up for the meeting).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 May 2018 18:00:00 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2018/05/28/aspa-annual-general-meeting-2018/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2018/05/28/aspa-annual-general-meeting-2018/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA End of Year Lunch 2017</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;small&gt;Updated 21 November 2017&lt;/small&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;This event has sold out. We look forward to seeing you at a future ASPA event.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;ASPA’s annual end-of-year festive lunch will be held this year on Friday, 1 December 2017.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
     &lt;p&gt;Date: 1 December 2017&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Time: 12 noon to 2 pm&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Venue: Sear Steakhouse, 50 Raffles Place Level 45, Singapore Land Tower, Singapore 048623&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;&lt;del&gt;An email invite has been sent to all members. If you wish to attend, please RSVP as soon as possible, as spaces are limited.&lt;/del&gt;&lt;/p&gt;
-  </description>
-  <pubDate>Wed, 22 Nov 2017 00:03:11 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2017/11/22/aspa-end-of-year-lunch-2017/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2017/11/22/aspa-end-of-year-lunch-2017/</guid>
-</item>
-<item>
-  <title>ASPA Response to Public Consultation on Patents</title>
-  <description>&lt;p&gt;The Ministry of Law and the Intellectual Property Office of Singapore held a &lt;a href=&quot;http://www.ipos.gov.sg/AboutIP/IPLegislation/PublicConsultations.aspx&quot;&gt;public consultation&lt;/a&gt; on proposed changes to the patents system in Singapore.&lt;/p&gt;
-    &lt;p&gt;After seeking members’ views, ASPA filed a &lt;a href=&quot;/files/aspa-response-to-public-consultation-on-patents-2016.pdf&quot;&gt;response to the consultation&lt;/a&gt; in November 2016.&lt;/p&gt;
-    &lt;!--more--&gt;
-    &lt;p&gt;The proposals seek to broaden the scope of Section 14(4) of the Patents Act to introduce a grace period. Under the proposed changes, a disclosure of the invention by the inventor or by a person who obtained the matter disclosed directly or indirectly from the inventor will not form part of the state of the art. This will only apply for disclosures made within 12 months before the date of filing of the patent application in Singapore.&lt;/p&gt;
-    &lt;p&gt;Another signficant proposal is to amend Section 29 of the Patents Act to remove the possibility for supplementary examination, in order to “increase the quality of patents granted in Singapore”.&lt;/p&gt;
-  </description>
-  <pubDate>Sat, 17 Dec 2016 18:41:24 +0800</pubDate>
-  <link>http://www.aspa.org.sg/news/2016/12/17/aspa-response-to-public-consultation-on-patents/</link>
-<guid isPermaLink="true">http://www.aspa.org.sg/news/2016/12/17/aspa-response-to-public-consultation-on-patents/</guid>
-</item>
-</channel>
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;del&gt;An email invite has been sent to all members. If you wish to attend, please RSVP as soon as possible, as spaces are limited.&lt;/del&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Nov 2017 00:03:11 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2017/11/22/aspa-end-of-year-lunch-2017/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2017/11/22/aspa-end-of-year-lunch-2017/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ASPA Response to Public Consultation on Patents</title>
+        <description>&lt;p&gt;The Ministry of Law and the Intellectual Property Office of Singapore held a &lt;a href=&quot;http://www.ipos.gov.sg/AboutIP/IPLegislation/PublicConsultations.aspx&quot;&gt;public consultation&lt;/a&gt; on proposed changes to the patents system in Singapore.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;After seeking members’ views, ASPA filed a &lt;a href=&quot;/files/aspa-response-to-public-consultation-on-patents-2016.pdf&quot;&gt;response to the consultation&lt;/a&gt; in November 2016.&lt;/p&gt;
+
+&lt;p&gt;The proposals seek to broaden the scope of Section 14(4) of the Patents Act to introduce a grace period. Under the proposed changes, a disclosure of the invention by the inventor or by a person who obtained the matter disclosed directly or indirectly from the inventor will not form part of the state of the art. This will only apply for disclosures made within 12 months before the date of filing of the patent application in Singapore.&lt;/p&gt;
+
+&lt;p&gt;Another signficant proposal is to amend Section 29 of the Patents Act to remove the possibility for supplementary examination, in order to “increase the quality of patents granted in Singapore”.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Dec 2016 18:41:24 +0800</pubDate>
+        <link>http://www.aspa.org.sg/news/2016/12/17/aspa-response-to-public-consultation-on-patents/</link>
+        <guid isPermaLink="true">http://www.aspa.org.sg/news/2016/12/17/aspa-response-to-public-consultation-on-patents/</guid>
+        
+        
+      </item>
+    
+  </channel>
 </rss>
