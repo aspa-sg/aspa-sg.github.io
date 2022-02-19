@@ -97,193 +97,178 @@
 
     <h1>Application for Individual Membership of ASPA</h1>
 
-<form class="form-horizontal" action="https://formspree.io/f/xknpaakg" method="POST">
+<form action="https://formspree.io/f/xknpaakg" method="POST">
   <fieldset>
     <span class="help-block">Please fill out the form below.</span>
 
     <h3>Personal Particulars</h3>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Name</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="name" name="name" />
-      </div>
+    <div class="mb-3">
+      <label for="name" class="form-label">Name</label>
+      <input type="text" class="form-control" id="name" name="name" autofocus="" required="" />
+      <div id="faxNumberHelp" class="form-text">Full name, including salutation</div>
     </div>
 
     <input type="text" name="_gotcha" style="display:none" />
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Firm / Organisation</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="firm_organisation" name="firm_organisation" />
-      </div>
+    <div class="mb-3">
+      <label for="firm_organisation" class="form-label">Firm / Organisation</label>
+      <input type="text" class="form-control" id="firm_organisation" name="firm_organisation" />
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Position in Firm or Organisation</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="position_in_firm_organisation" name="position_in_firm_organisation" />
-      </div>
+    <div class="mb-3">
+      <label for="position_in_firm_organisation" class="form-label">Position in Firm or Organisation</label>
+      <input type="text" class="form-control" id="position_in_firm_organisation" name="position_in_firm_organisation" />
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Address</label>
-      <div class="col-lg-9">
-        <textarea class="form-control" rows="3" id="address" name="address"></textarea>
-      </div>
+    <div class="mb-3">
+      <label for="address" class="form-label">Address</label>
+      <textarea class="form-control" rows="3" id="address" name="address" required=""></textarea>
+      <div id="faxNumberHelp" class="form-text">Full address, including postcode and country</div>
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Telephone Number</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="tel_number" name="tel_number" />
-      </div>
+    <div class="mb-3">
+      <label for="tel_number" class="form-label">Telephone Number</label>
+      <input type="text" class="form-control" id="tel_number" name="tel_number" required="" />
+      <div id="telNumberHelp" class="form-text">Include country code</div>
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Facsimile Number</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="fax_number" name="fax_number" />
-      </div>
+    <div class="mb-3">
+      <label for="fax_number" class="form-label">Facsimile Number (if available)</label>
+      <input type="text" class="form-control" id="fax_number" name="fax_number" />
+      <div id="faxNumberHelp" class="form-text">Include country code</div>
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Email Address</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="email_address" name="email_address" />
-      </div>
+    <div class="mb-3">
+      <label for="email_address" class="form-label">Email Address</label>
+      <input type="text" class="form-control" id="email_address" name="email_address" required="" />
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Nationality</label>
-      <div class="col-lg-9">
-        <input type="text" class="form-control" id="nationality" name="nationality" />
-      </div>
+    <div class="mb-3">
+      <label for="nationality" class="form-label">Nationality</label>
+      <input type="text" class="form-control" id="nationality" name="nationality" />
     </div>
 
     <h3>Qualifications</h3>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Academic</label>
-      <div class="col-lg-9">
-        <textarea class="form-control" rows="2" id="academic_qualifications" name="academic_qualifications"></textarea>
-      </div>
+    <div class="mb-3">
+      <label for="academic_qualifications" class="form-label">Academic</label>
+      <textarea class="form-control" rows="2" id="academic_qualifications" name="academic_qualifications"></textarea>
     </div>
 
-    <div class="form-group">
-      <label for="inputName" class="col-sm-3 control-label">Professional</label>
-      <div class="col-lg-9">
-        <textarea class="form-control" rows="2" id="professional_qualifications" name="professional_qualifications"></textarea>
-      </div>
+    <div class="mb-3">
+      <label for="professional_qualifications" class="form-label">Professional</label>
+      <textarea class="form-control" rows="2" id="professional_qualifications" name="professional_qualifications" required=""></textarea>
     </div>
 
     <h3>Previous Experience</h3>
 
-    <table class="table">
-      <thead>
-        <tr>
-          <th class="col-sm-4">Name of Firm</th>
-          <th>From</th>
-          <th>To</th>
-          <th class="col-sm-4">Area of Practice</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_name_of_firm_1" name="previous_experience_name_of_firm_1" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_from_1" name="previous_experience_from_1" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_to_1" name="previous_experience_to_1" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_area_of_practice_1" name="previous_experience_area_of_practice_1" />
-          </td>
-        </tr>
+    <div class="container px-0">
+      <div class="row py-1">
+        <div class="col-sm-4">Name of Firm</div>
+        <div class="col">From</div>
+        <div class="col">To</div>
+        <div class="col-sm-4">Area of Practice</div>
+      </div>
 
-        <tr>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_name_of_firm_2" name="previous_experience_name_of_firm_2" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_from_2" name="previous_experience_from_2" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_to_2" name="previous_experience_to_2" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_area_of_practice_2" name="previous_experience_area_of_practice_2" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_name_of_firm_3" name="previous_experience_name_of_firm_3" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_from_3" name="previous_experience_from_3" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_to_3" name="previous_experience_to_3" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_area_of_practice_3" name="previous_experience_area_of_practice_3" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_name_of_firm_4" name="previous_experience_name_of_firm_4" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_from_4" name="previous_experience_from_4" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_to_4" name="previous_experience_to_4" />
-          </td>
-          <td>
-            <input type="text" class="form-control" id="previous_experience_area_of_practice_4" name="previous_experience_area_of_practice_4" />
-          </td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h3>Singapore Patent Agent Registration</h3>
-
-    <div class="radio">
-      <label>
-        <input type="radio" name="membership_category" id="ordinary_member" value="ordinary_member" checked="" />
-        I am a Registered Singapore Patent Agent and wish to join ASPA as an Ordinary Member
-      </label>
-
-      <div class="form-group">
-        <label for="inputName" class="col-sm-3 control-label">Registration Number</label>
-        <div class="col-lg-9">
-          <input type="text" class="form-control" id="registration_number" name="registration_number" />
+      <div class="row py-1">
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_name_of_firm_1" name="previous_experience_name_of_firm_1" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_from_1" name="previous_experience_from_1" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_to_1" name="previous_experience_to_1" />
+        </div>
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_area_of_practice_1" name="previous_experience_area_of_practice_1" />
         </div>
       </div>
 
-      <div class="form-group">
-        <label for="inputName" class="col-sm-3 control-label">Date of Registration</label>
-        <div class="col-lg-9">
-          <input type="text" class="form-control" id="registration_date" name="registration_date" />Registration No. and Date as stated in the Practising Certificate issued by the Intellectual Property Office of Singapore under Rule 6 of the Patent (Patent Agents) Rules 2001
+      <div class="row py-1">
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_name_of_firm_2" name="previous_experience_name_of_firm_2" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_from_2" name="previous_experience_from_2" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_to_2" name="previous_experience_to_2" />
+        </div>
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_area_of_practice_2" name="previous_experience_area_of_practice_2" />
+        </div>
+      </div>
+
+      <div class="row py-1">
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_name_of_firm_3" name="previous_experience_name_of_firm_3" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_from_3" name="previous_experience_from_3" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_to_3" name="previous_experience_to_3" />
+        </div>
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_area_of_practice_3" name="previous_experience_area_of_practice_3" />
+        </div>
+      </div>
+
+      <div class="row py-1">
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_name_of_firm_4" name="previous_experience_name_of_firm_4" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_from_4" name="previous_experience_from_4" />
+        </div>
+        <div class="col py-1">
+          <input type="text" class="form-control" id="previous_experience_to_4" name="previous_experience_to_4" />
+        </div>
+        <div class="col-sm-4 py-1">
+          <input type="text" class="form-control" id="previous_experience_area_of_practice_4" name="previous_experience_area_of_practice_4" />
         </div>
       </div>
     </div>
 
-    <div class="radio">
-      <label>
-        <input type="radio" name="membership_category" id="associate_member" value="associate_member" />
+    <h3>Singapore Patent Agent Registration</h3>
+
+    <div class="form-check">
+      <input type="radio" name="membership_category" id="ordinary_member" class="form-check-input" value="ordinary_member" checked="" />
+      <label for="ordinary_member" class="form-check-label">
+        I am a Registered Singapore Patent Agent and wish to join ASPA as an Ordinary Member
+      </label>
+
+      <label for="registration_number" class="form-label">
+        Registration Number
+      </label>
+      <input type="text" class="form-control" id="registration_number" name="registration_number" />
+      <div id="registrationNumberHelp" class="form-text">
+        Registration Number under Patent (Patent Agents) Rules 2001
+      </div>
+
+      <label for="registration_date" class="form-label">
+        Date of Registration
+      </label>
+      <input type="text" class="form-control" id="registration_date" name="registration_date" />
+      <div id="registrationDateHelp" class="form-text">
+        Please include day, month and year
+      </div>
+    </div>
+
+    <div class="form-check">
+      <input type="radio" name="membership_category" id="associate_member" class="form-check-input" value="associate_member" />
+      <label for="membership_category" class="form-check-label">
         I am not registered as a Singapore Patent Agent and wish to join ASPA as an Associate Member
       </label>
     </div>
 
     <h3>Declaration</h3>
 
-    <div class="checkbox">
-      <label>
-        <input type="checkbox" name="declaration" id="declaration" value="declaration" />
+    <div class="form-check">
+      <input type="checkbox" name="declaration" id="declaration" class="form-check-input" value="declaration" />
+      <label for="declaration" class="form-check-label">
         <p>I declare that all the information provided above is true and correct. In the event that my application for membership is accepted, I agree to abide by the <a href="/about/constitution/" target="_blank">Constitution of the Association of Singapore Patent Attorneys</a>, its <a href="/about/code-of-conduct/" target="_blank">Code of Conduct</a>, as well as its <a href="/about/privacy-policy/" target="_blank">Privacy Policy</a>, all of which I hereby confirm to have read and understood.</p>
         <p>By submitting this membership application form, I also agree that ASPA may collect, use and disclose my personal information, as provided in this application form, for the following purposes, subject to the Personal Data Protection Act 2012 and the Objectives as set out in ASPA's Privacy Policy, in particular for:</p>
         <ol type="a">
@@ -293,23 +278,20 @@
       </label>
     </div>
     <br />
-    <div class="form-group">
-      <div class="pull-right">
-        <button type="submit" class="btn btn-default" id="submit_application" disabled="true">Submit Application</button>
-        <input type="hidden" name="_subject" value="Application for Individual Membership of ASPA" />
-        <input type="hidden" name="_next" value="/contact/thank-you" />
-      </div>
+    <div class="mb-3">
+      <button type="submit" class="btn btn-primary float-end" id="submit_application" disabled="true">Submit Application</button>
+      <input type="hidden" name="_subject" value="Application for Individual Membership of ASPA" />
+      <input type="hidden" name="_next" value="/contact/thank-you" />
     </div>
+
   </fieldset>
 </form>
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-
 <script type="text/javascript">
-  $(document).ready(function(){
-      $('#declaration').change(function () {
-        $('#submit_application').prop("disabled", !this.checked);
-      }).change()
+  document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("declaration").addEventListener("change", function () {
+      document.getElementById("submit_application").disabled = !this.checked;
+    });
   });
 </script>
 

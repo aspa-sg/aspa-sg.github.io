@@ -101,24 +101,24 @@
   <fieldset>
     <span class="help-block">Thank you for your interest in ASPA. Please send us a message using this form.</span>
     <div class="mb-3">
-      <label for="inputName" class="form-label">Name</label>
-      <input type="text" class="form-control" id="inputName" name="name" placeholder="Your name" />
+      <label for="inputName" id="name" class="form-label">Name</label>
+      <input type="text" class="form-control" id="inputName" name="name" placeholder="Your name" autofocus="" required="" />
     </div>
 
     <input type="text" name="_gotcha" style="display:none" />
 
     <div class="mb-3">
-      <label for="inputEmail" class="form-label">Email</label>
-      <input type="text" class="form-control" id="inputEmail" name="_replyto" placeholder="Your email address" />
+      <label for="inputEmail" id="email" class="form-label">Email</label>
+      <input type="email" class="form-control" id="inputEmail" name="_replyto" placeholder="Your email address" required="" />
     </div>
 
     <div class="mb-3">
-      <label for="textArea" class="form-label">Message</label>
-      <textarea class="form-control" rows="4" id="textArea" name="message" placeholder="Please enter a message here"></textarea>
+      <label for="textArea" id="message" class="form-label">Message</label>
+      <textarea class="form-control" rows="4" id="textArea" name="message" placeholder="Please enter a message here" required=""></textarea>
     </div>
 
     <div class="mb-3">
-      <button type="submit" class="btn btn-primary float-end">Send message</button>
+      <button type="submit" class="btn btn-primary float-end" id="send_message">Send message</button>
       <input type="hidden" name="_subject" value="Message from ASPA Website Contact Form" />
       <input type="hidden" name="_next" value="/contact/thank-you" />
     </div>
