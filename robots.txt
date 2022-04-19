@@ -1,1 +1,1 @@
-Sitemap: http://www.aspa.org.sg/sitemap.xml
+Sitemap: https://www.aspa.org.sg/sitemap.xml
